@@ -32,7 +32,7 @@ Oferece endpoints REST seguros e escaláveis para **cadastro de livros, controle
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/libmanager-api.git](https://github.com/FeJoestar18/API-LibManager.git
+git clone https://github.com/FeJoestar18/API-LibManager.git
 ```
 
 ```bash
